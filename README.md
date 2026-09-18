@@ -14,6 +14,15 @@ I want to take this Wireless Communication course because I would like to streng
 
 ## :notebook_with_decorative_cover: Assignment
 
+- **LAB0: Basic Wireshark Operational and Capture**
+    - Assignment Information: [Lab0](https://hackmd.io/@Z4OmT2gcTXeLxBPXrn-2SQ/ry3RfjvFMg)
+    - **Deadline : 12:00, Sep. 28**
+    - Goal:
+In this lab, you will know the basic Wireshark operation and how to capture the packages
+    - delivery: [侯偉信 Assignment Lab0](https://hackmd.io/@andrewbartholomeo/ByCFRQcYze).
+    -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSeY8uVnBUwJ6l6CwQ6arx3JHthTJupHBeA2WwyD-EUIYqHHrg/viewform?usp=publish-editor) (DL: 23:59, Sep. 30)
+
+    
 - **LAB1: Analyzing UE–gNB Connectivity in an OAI 5G SA Network**
     - Assignment Information: [Lab1](https://hackmd.io/A4w9WqU8R4mYgvaWxj6J1A?view)
     - **Deadline : 12:00, Sep. 28**
