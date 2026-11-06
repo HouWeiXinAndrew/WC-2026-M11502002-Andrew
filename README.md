@@ -20,7 +20,7 @@ I want to take this Wireless Communication course because I would like to streng
     - Goal:
 In this lab, you will know the basic Wireshark operation and how to capture the packages
     - delivery: [侯偉信 Assignment Lab0](https://hackmd.io/@andrewbartholomeo/ByCFRQcYze).
-    -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSeY8uVnBUwJ6l6CwQ6arx3JHthTJupHBeA2WwyD-EUIYqHHrg/viewform?usp=publish-editor) (DL: 23:59, Sep. 30)
+    -  [] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSeY8uVnBUwJ6l6CwQ6arx3JHthTJupHBeA2WwyD-EUIYqHHrg/viewform?usp=publish-editor) (DL: 23:59, Sep. 30)
 
     
 - **LAB1: Analyzing UE–gNB Connectivity in an OAI 5G SA Network**
@@ -37,5 +37,5 @@ In this lab, you will use Wireshark to analyze how a UE establishes an RRC conne
     -  **Deadline : 12:00, Oct. 5**
     - Goal:
 In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
-    - - delivery: **put your file link here**.
+    - - delivery: [侯偉信 Assignment Lab2](https://hackmd.io/@andrewbartholomeo/HkH0Dh9Tze).
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLScz-Kt_9ArkXOl8sG99549xqGK7W7vAqoY4lbbc3ph03zvFaw/viewform?usp=publish-editor) (DL: 23:59, Oct.7)
