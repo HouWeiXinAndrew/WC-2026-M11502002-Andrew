@@ -55,3 +55,11 @@ In this lab, you will deploy your own 5G Standalone (SA) network using OpenAirIn
 After completing this lab, you should be able to: Explain the functional division between gNB-CU and gNB-DU. Deploy a split 5G SA RAN with OAI and RFsimulator. Identify F1-C control-plane messages (F1 Setup, RRC transfer, UE Context Setup). Identify F1-U user-plane GTP-U packets, including their direction and TEID. Verify UE IP connectivity through the split architecture. Distinguish F1-U from the separate N3 interface, even though both can use GTP-U.
     - - delivery: [侯偉信 Assignment Lab4](https://hackmd.io/@andrewbartholomeo/SJJZ-uqRMg).
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLScz-Kt_9ArkXOl8sG99549xqGK7W7vAqoY4lbbc3ph03zvFaw/viewform?usp=publish-editor) (DL: 23:59, Oct.7)
+
+- **LAB5 : From Initial Access to RRC Connection Setup**
+    -  Assignment Information: [Lab4](https://github.com/zongyi0311/WC-course-2026/tree/main/Lab5)
+    -  **Deadline : 12:00, Oct. 5**
+    - Goal:
+In Lab 1, you observed UE registration with the 5GC and the establishment of data service. This lab moves the observation point earlier: before registering with the Core network, how does a UE find a gNB, obtain cell system information, perform Random Access, and finally establish an RRC connection.
+    - - delivery: [侯偉信 Assignment Lab5](https://hackmd.io/@andrewbartholomeo/S1JlasmJQe).
+    -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLScz-Kt_9ArkXOl8sG99549xqGK7W7vAqoY4lbbc3ph03zvFaw/viewform?usp=publish-editor) (DL: 23:59, Oct.7)
